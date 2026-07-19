@@ -25,9 +25,9 @@ ColorDetectionProject/
 │── color_detection.py
 │── colors.csv
 │── colorpic.jpg
-│── pic1.jpg
-│── pic2.jpg
-│── pic3.jpg
+│── detection1.jpg
+│── detection2.jpg
+│── detection3.jpg
 │── README.md
 ```
 
